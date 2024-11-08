@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650547553531",
+    "project_id": "anud-fafc5",
+    "storage_bucket": "anud-fafc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650547553531:android:7fe56c3b057f032f6c3c5e",
+        "android_client_info": {
+          "package_name": "com.example.vgvg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjttukM-Je3Ux3SKRsrFVe56Hg441ZDlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
